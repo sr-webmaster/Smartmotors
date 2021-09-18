@@ -1,0 +1,1155 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`BasicInformation Snapshot default 1`] = `
+<div
+  class="v-card v-sheet theme--light"
+>
+  <div
+    class="v-card__text"
+  >
+    <div
+      class="container grid-list-md"
+    >
+      <div
+        class="layout row wrap"
+      >
+        <div
+          class="flex md6"
+        >
+          <div
+            class="v-input f-basicInformation__dealId v-text-field v-input--is-readonly theme--light"
+          >
+            <div
+              class="v-input__control"
+            >
+              <div
+                class="v-input__slot"
+              >
+                <div
+                  class="v-text-field__slot"
+                >
+                  <label
+                    aria-hidden="true"
+                    class="v-label theme--light"
+                    style="left: 0px; position: absolute;"
+                  >
+                    Deal #
+                  </label>
+                  <input
+                    aria-label="Deal #"
+                    readonly="readonly"
+                    type="text"
+                  />
+                </div>
+              </div>
+              <div
+                class="v-text-field__details"
+              >
+                <div
+                  class="v-messages theme--light"
+                >
+                  <div
+                    class="v-messages__wrapper"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+         
+        <div
+          class="flex md3"
+        >
+          <div
+            class="v-input f-basicInformation__dealType v-text-field v-input--is-readonly theme--light"
+          >
+            <div
+              class="v-input__control"
+            >
+              <div
+                class="v-input__slot"
+              >
+                <div
+                  class="v-text-field__slot"
+                >
+                  <label
+                    aria-hidden="true"
+                    class="v-label theme--light"
+                    style="left: 0px; position: absolute;"
+                  >
+                    Deal Type
+                  </label>
+                  <input
+                    aria-label="Deal Type"
+                    readonly="readonly"
+                    type="text"
+                  />
+                </div>
+              </div>
+              <div
+                class="v-text-field__details"
+              >
+                <div
+                  class="v-messages theme--light"
+                >
+                  <div
+                    class="v-messages__wrapper"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+         
+        <div
+          class="flex md3"
+        >
+          <div
+            class="v-input f-basicInformation__status v-text-field v-input--is-readonly theme--light"
+          >
+            <div
+              class="v-input__control"
+            >
+              <div
+                class="v-input__slot"
+              >
+                <div
+                  class="v-text-field__slot"
+                >
+                  <label
+                    aria-hidden="true"
+                    class="v-label theme--light"
+                    style="left: 0px; position: absolute;"
+                  >
+                    Status
+                  </label>
+                  <input
+                    aria-label="Status"
+                    readonly="readonly"
+                    type="text"
+                  />
+                </div>
+              </div>
+              <div
+                class="v-text-field__details"
+              >
+                <div
+                  class="v-messages theme--light"
+                >
+                  <div
+                    class="v-messages__wrapper"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+       
+      <div
+        class="layout row"
+      >
+        <div
+          class="flex md4"
+        >
+          <div
+            class="v-input f-basicInformation__contractDate v-text-field v-input--is-readonly theme--light"
+          >
+            <div
+              class="v-input__control"
+            >
+              <div
+                class="v-input__slot"
+              >
+                <div
+                  class="v-text-field__slot"
+                >
+                  <label
+                    aria-hidden="true"
+                    class="v-label theme--light"
+                    style="left: 0px; position: absolute;"
+                  >
+                    Date written
+                  </label>
+                  <input
+                    aria-label="Date written"
+                    readonly="readonly"
+                    type="text"
+                  />
+                </div>
+              </div>
+              <div
+                class="v-text-field__details"
+              >
+                <div
+                  class="v-messages theme--light"
+                >
+                  <div
+                    class="v-messages__wrapper"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+         
+        <div
+          class="flex md4"
+        >
+          <div
+            class="v-input f-basicInformation__estDeliveryDate v-text-field v-input--is-readonly theme--light"
+          >
+            <div
+              class="v-input__control"
+            >
+              <div
+                class="v-input__slot"
+              >
+                <div
+                  class="v-text-field__slot"
+                >
+                  <label
+                    aria-hidden="true"
+                    class="v-label theme--light"
+                    style="left: 0px; position: absolute;"
+                  >
+                    Est. Delivery Date
+                  </label>
+                  <input
+                    aria-label="Est. Delivery Date"
+                    readonly="readonly"
+                    type="text"
+                  />
+                </div>
+              </div>
+              <div
+                class="v-text-field__details"
+              >
+                <div
+                  class="v-messages theme--light"
+                >
+                  <div
+                    class="v-messages__wrapper"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+         
+        <div
+          class="flex md4"
+        >
+          <div
+            class="v-input f-basicInformation__deliveryDate v-text-field v-input--is-readonly theme--light"
+          >
+            <div
+              class="v-input__control"
+            >
+              <div
+                class="v-input__slot"
+              >
+                <div
+                  class="v-text-field__slot"
+                >
+                  <label
+                    aria-hidden="true"
+                    class="v-label theme--light"
+                    style="left: 0px; position: absolute;"
+                  >
+                    Delivery date
+                  </label>
+                  <input
+                    aria-label="Delivery date"
+                    readonly="readonly"
+                    type="text"
+                  />
+                </div>
+              </div>
+              <div
+                class="v-text-field__details"
+              >
+                <div
+                  class="v-messages theme--light"
+                >
+                  <div
+                    class="v-messages__wrapper"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+       
+      <div
+        class="layout row"
+      >
+        <div
+          class="flex md3"
+        >
+          <div
+            class="v-input v-input--selection-controls v-input--switch theme--light"
+          >
+            <div
+              class="v-input__control"
+            >
+              <div
+                class="v-input__slot"
+              >
+                <div
+                  class="v-input--selection-controls__input"
+                >
+                  <input
+                    aria-checked="false"
+                    aria-label="Secured Trade"
+                    role="checkbox"
+                    type="checkbox"
+                    value=""
+                  />
+                  <div
+                    class="v-input--selection-controls__ripple"
+                  />
+                  <div
+                    class="v-input--switch__track theme--light"
+                  />
+                  <div
+                    class="v-input--switch__thumb theme--light"
+                  >
+                    <!---->
+                  </div>
+                </div>
+                <label
+                  aria-hidden="true"
+                  class="v-label theme--light"
+                  style="left: 0px; position: relative;"
+                >
+                  Secured Trade
+                </label>
+              </div>
+              <div
+                class="v-messages theme--light"
+              >
+                <div
+                  class="v-messages__wrapper"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+         
+        <div
+          class="flex md3"
+        >
+          <div
+            class="v-input v-input--selection-controls v-input--switch theme--light"
+          >
+            <div
+              class="v-input__control"
+            >
+              <div
+                class="v-input__slot"
+              >
+                <div
+                  class="v-input--selection-controls__input"
+                >
+                  <input
+                    aria-checked="false"
+                    aria-label="Unfunded"
+                    role="checkbox"
+                    type="checkbox"
+                    value=""
+                  />
+                  <div
+                    class="v-input--selection-controls__ripple"
+                  />
+                  <div
+                    class="v-input--switch__track theme--light"
+                  />
+                  <div
+                    class="v-input--switch__thumb theme--light"
+                  >
+                    <!---->
+                  </div>
+                </div>
+                <label
+                  aria-hidden="true"
+                  class="v-label theme--light"
+                  style="left: 0px; position: relative;"
+                >
+                  Unfunded
+                </label>
+              </div>
+              <div
+                class="v-messages theme--light"
+              >
+                <div
+                  class="v-messages__wrapper"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+         
+        <div
+          class="flex md3"
+        >
+          <div
+            class="v-input v-input--selection-controls v-input--switch theme--light"
+          >
+            <div
+              class="v-input__control"
+            >
+              <div
+                class="v-input__slot"
+              >
+                <div
+                  class="v-input--selection-controls__input"
+                >
+                  <input
+                    aria-checked="false"
+                    aria-label="Scheduled"
+                    role="checkbox"
+                    type="checkbox"
+                    value=""
+                  />
+                  <div
+                    class="v-input--selection-controls__ripple"
+                  />
+                  <div
+                    class="v-input--switch__track theme--light"
+                  />
+                  <div
+                    class="v-input--switch__thumb theme--light"
+                  >
+                    <!---->
+                  </div>
+                </div>
+                <label
+                  aria-hidden="true"
+                  class="v-label theme--light"
+                  style="left: 0px; position: relative;"
+                >
+                  Scheduled
+                </label>
+              </div>
+              <div
+                class="v-messages theme--light"
+              >
+                <div
+                  class="v-messages__wrapper"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+         
+        <div
+          class="flex md3"
+        >
+          <div
+            class="v-input v-input--selection-controls v-input--switch theme--light"
+          >
+            <div
+              class="v-input__control"
+            >
+              <div
+                class="v-input__slot"
+              >
+                <div
+                  class="v-input--selection-controls__input"
+                >
+                  <input
+                    aria-checked="false"
+                    aria-label="Carry-over"
+                    role="checkbox"
+                    type="checkbox"
+                    value=""
+                  />
+                  <div
+                    class="v-input--selection-controls__ripple"
+                  />
+                  <div
+                    class="v-input--switch__track theme--light"
+                  />
+                  <div
+                    class="v-input--switch__thumb theme--light"
+                  >
+                    <!---->
+                  </div>
+                </div>
+                <label
+                  aria-hidden="true"
+                  class="v-label theme--light"
+                  style="left: 0px; position: relative;"
+                >
+                  Carry-over
+                </label>
+              </div>
+              <div
+                class="v-messages theme--light"
+              >
+                <div
+                  class="v-messages__wrapper"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+       
+      <div
+        class="layout row"
+      >
+        <div
+          class="flex md12"
+        >
+          <div
+            class="v-input v-textarea v-text-field theme--light"
+          >
+            <div
+              class="v-input__control"
+            >
+              <div
+                class="v-input__slot"
+              >
+                <div
+                  class="v-text-field__slot"
+                >
+                  <label
+                    aria-hidden="true"
+                    class="v-label theme--light"
+                    style="left: 0px; position: absolute;"
+                  >
+                    Notes
+                  </label>
+                  <textarea
+                    aria-label="Notes"
+                    rows="5"
+                  />
+                </div>
+              </div>
+              <div
+                class="v-text-field__details"
+              >
+                <div
+                  class="v-messages theme--light"
+                >
+                  <div
+                    class="v-messages__wrapper"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+       
+      <div
+        class="layout row"
+      >
+        <button
+          class="v-btn theme--light"
+          type="button"
+        >
+          <div
+            class="v-btn__content"
+          >
+            Cancel
+          </div>
+        </button>
+         
+        <button
+          class="v-btn theme--light primary"
+          type="button"
+        >
+          <div
+            class="v-btn__content"
+          >
+            
+          Save Changes
+        
+          </div>
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`BasicInformation Snapshot with mocked data 1`] = `
+<div
+  class="v-card v-sheet theme--light"
+>
+  <div
+    class="v-card__text"
+  >
+    <div
+      class="container grid-list-md"
+    >
+      <div
+        class="layout row wrap"
+      >
+        <div
+          class="flex md6"
+        >
+          <div
+            class="v-input f-basicInformation__dealId v-text-field v-input--is-label-active v-input--is-dirty v-input--is-readonly theme--light"
+          >
+            <div
+              class="v-input__control"
+            >
+              <div
+                class="v-input__slot"
+              >
+                <div
+                  class="v-text-field__slot"
+                >
+                  <label
+                    aria-hidden="true"
+                    class="v-label v-label--active theme--light"
+                    style="left: 0px; position: absolute;"
+                  >
+                    Deal #
+                  </label>
+                  <input
+                    aria-label="Deal #"
+                    readonly="readonly"
+                    type="text"
+                  />
+                </div>
+              </div>
+              <div
+                class="v-text-field__details"
+              >
+                <div
+                  class="v-messages theme--light"
+                >
+                  <div
+                    class="v-messages__wrapper"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+         
+        <div
+          class="flex md3"
+        >
+          <div
+            class="v-input f-basicInformation__dealType v-text-field v-input--is-label-active v-input--is-dirty v-input--is-readonly theme--light"
+          >
+            <div
+              class="v-input__control"
+            >
+              <div
+                class="v-input__slot"
+              >
+                <div
+                  class="v-text-field__slot"
+                >
+                  <label
+                    aria-hidden="true"
+                    class="v-label v-label--active theme--light"
+                    style="left: 0px; position: absolute;"
+                  >
+                    Deal Type
+                  </label>
+                  <input
+                    aria-label="Deal Type"
+                    readonly="readonly"
+                    type="text"
+                  />
+                </div>
+              </div>
+              <div
+                class="v-text-field__details"
+              >
+                <div
+                  class="v-messages theme--light"
+                >
+                  <div
+                    class="v-messages__wrapper"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+         
+        <div
+          class="flex md3"
+        >
+          <div
+            class="v-input f-basicInformation__status v-text-field v-input--is-label-active v-input--is-dirty v-input--is-readonly theme--light"
+          >
+            <div
+              class="v-input__control"
+            >
+              <div
+                class="v-input__slot"
+              >
+                <div
+                  class="v-text-field__slot"
+                >
+                  <label
+                    aria-hidden="true"
+                    class="v-label v-label--active theme--light"
+                    style="left: 0px; position: absolute;"
+                  >
+                    Status
+                  </label>
+                  <input
+                    aria-label="Status"
+                    readonly="readonly"
+                    type="text"
+                  />
+                </div>
+              </div>
+              <div
+                class="v-text-field__details"
+              >
+                <div
+                  class="v-messages theme--light"
+                >
+                  <div
+                    class="v-messages__wrapper"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+       
+      <div
+        class="layout row"
+      >
+        <div
+          class="flex md4"
+        >
+          <div
+            class="v-input f-basicInformation__contractDate v-text-field v-input--is-label-active v-input--is-dirty v-input--is-readonly theme--light"
+          >
+            <div
+              class="v-input__control"
+            >
+              <div
+                class="v-input__slot"
+              >
+                <div
+                  class="v-text-field__slot"
+                >
+                  <label
+                    aria-hidden="true"
+                    class="v-label v-label--active theme--light"
+                    style="left: 0px; position: absolute;"
+                  >
+                    Date written
+                  </label>
+                  <input
+                    aria-label="Date written"
+                    readonly="readonly"
+                    type="text"
+                  />
+                </div>
+              </div>
+              <div
+                class="v-text-field__details"
+              >
+                <div
+                  class="v-messages theme--light"
+                >
+                  <div
+                    class="v-messages__wrapper"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+         
+        <div
+          class="flex md4"
+        >
+          <div
+            class="v-input f-basicInformation__estDeliveryDate v-text-field v-input--is-label-active v-input--is-dirty v-input--is-readonly theme--light"
+          >
+            <div
+              class="v-input__control"
+            >
+              <div
+                class="v-input__slot"
+              >
+                <div
+                  class="v-text-field__slot"
+                >
+                  <label
+                    aria-hidden="true"
+                    class="v-label v-label--active theme--light"
+                    style="left: 0px; position: absolute;"
+                  >
+                    Est. Delivery Date
+                  </label>
+                  <input
+                    aria-label="Est. Delivery Date"
+                    readonly="readonly"
+                    type="text"
+                  />
+                </div>
+              </div>
+              <div
+                class="v-text-field__details"
+              >
+                <div
+                  class="v-messages theme--light"
+                >
+                  <div
+                    class="v-messages__wrapper"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+         
+        <div
+          class="flex md4"
+        >
+          <div
+            class="v-input f-basicInformation__deliveryDate v-text-field v-input--is-label-active v-input--is-dirty v-input--is-readonly theme--light"
+          >
+            <div
+              class="v-input__control"
+            >
+              <div
+                class="v-input__slot"
+              >
+                <div
+                  class="v-text-field__slot"
+                >
+                  <label
+                    aria-hidden="true"
+                    class="v-label v-label--active theme--light"
+                    style="left: 0px; position: absolute;"
+                  >
+                    Delivery date
+                  </label>
+                  <input
+                    aria-label="Delivery date"
+                    readonly="readonly"
+                    type="text"
+                  />
+                </div>
+              </div>
+              <div
+                class="v-text-field__details"
+              >
+                <div
+                  class="v-messages theme--light"
+                >
+                  <div
+                    class="v-messages__wrapper"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+       
+      <div
+        class="layout row"
+      >
+        <div
+          class="flex md3"
+        >
+          <div
+            class="v-input v-input--selection-controls v-input--switch theme--light"
+          >
+            <div
+              class="v-input__control"
+            >
+              <div
+                class="v-input__slot"
+              >
+                <div
+                  class="v-input--selection-controls__input"
+                >
+                  <input
+                    aria-checked="false"
+                    aria-label="Secured Trade"
+                    role="checkbox"
+                    type="checkbox"
+                    value=""
+                  />
+                  <div
+                    class="v-input--selection-controls__ripple"
+                  />
+                  <div
+                    class="v-input--switch__track theme--light"
+                  />
+                  <div
+                    class="v-input--switch__thumb theme--light"
+                  >
+                    <!---->
+                  </div>
+                </div>
+                <label
+                  aria-hidden="true"
+                  class="v-label theme--light"
+                  style="left: 0px; position: relative;"
+                >
+                  Secured Trade
+                </label>
+              </div>
+              <div
+                class="v-messages theme--light"
+              >
+                <div
+                  class="v-messages__wrapper"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+         
+        <div
+          class="flex md3"
+        >
+          <div
+            class="v-input v-input--selection-controls v-input--switch theme--light"
+          >
+            <div
+              class="v-input__control"
+            >
+              <div
+                class="v-input__slot"
+              >
+                <div
+                  class="v-input--selection-controls__input"
+                >
+                  <input
+                    aria-checked="false"
+                    aria-label="Unfunded"
+                    role="checkbox"
+                    type="checkbox"
+                    value=""
+                  />
+                  <div
+                    class="v-input--selection-controls__ripple"
+                  />
+                  <div
+                    class="v-input--switch__track theme--light"
+                  />
+                  <div
+                    class="v-input--switch__thumb theme--light"
+                  >
+                    <!---->
+                  </div>
+                </div>
+                <label
+                  aria-hidden="true"
+                  class="v-label theme--light"
+                  style="left: 0px; position: relative;"
+                >
+                  Unfunded
+                </label>
+              </div>
+              <div
+                class="v-messages theme--light"
+              >
+                <div
+                  class="v-messages__wrapper"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+         
+        <div
+          class="flex md3"
+        >
+          <div
+            class="v-input v-input--selection-controls v-input--switch theme--light"
+          >
+            <div
+              class="v-input__control"
+            >
+              <div
+                class="v-input__slot"
+              >
+                <div
+                  class="v-input--selection-controls__input"
+                >
+                  <input
+                    aria-checked="false"
+                    aria-label="Scheduled"
+                    role="checkbox"
+                    type="checkbox"
+                    value=""
+                  />
+                  <div
+                    class="v-input--selection-controls__ripple"
+                  />
+                  <div
+                    class="v-input--switch__track theme--light"
+                  />
+                  <div
+                    class="v-input--switch__thumb theme--light"
+                  >
+                    <!---->
+                  </div>
+                </div>
+                <label
+                  aria-hidden="true"
+                  class="v-label theme--light"
+                  style="left: 0px; position: relative;"
+                >
+                  Scheduled
+                </label>
+              </div>
+              <div
+                class="v-messages theme--light"
+              >
+                <div
+                  class="v-messages__wrapper"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+         
+        <div
+          class="flex md3"
+        >
+          <div
+            class="v-input v-input--selection-controls v-input--switch theme--light"
+          >
+            <div
+              class="v-input__control"
+            >
+              <div
+                class="v-input__slot"
+              >
+                <div
+                  class="v-input--selection-controls__input"
+                >
+                  <input
+                    aria-checked="false"
+                    aria-label="Carry-over"
+                    role="checkbox"
+                    type="checkbox"
+                    value=""
+                  />
+                  <div
+                    class="v-input--selection-controls__ripple"
+                  />
+                  <div
+                    class="v-input--switch__track theme--light"
+                  />
+                  <div
+                    class="v-input--switch__thumb theme--light"
+                  >
+                    <!---->
+                  </div>
+                </div>
+                <label
+                  aria-hidden="true"
+                  class="v-label theme--light"
+                  style="left: 0px; position: relative;"
+                >
+                  Carry-over
+                </label>
+              </div>
+              <div
+                class="v-messages theme--light"
+              >
+                <div
+                  class="v-messages__wrapper"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+       
+      <div
+        class="layout row"
+      >
+        <div
+          class="flex md12"
+        >
+          <div
+            class="v-input v-textarea v-text-field theme--light"
+          >
+            <div
+              class="v-input__control"
+            >
+              <div
+                class="v-input__slot"
+              >
+                <div
+                  class="v-text-field__slot"
+                >
+                  <label
+                    aria-hidden="true"
+                    class="v-label theme--light"
+                    style="left: 0px; position: absolute;"
+                  >
+                    Notes
+                  </label>
+                  <textarea
+                    aria-label="Notes"
+                    rows="5"
+                  />
+                </div>
+              </div>
+              <div
+                class="v-text-field__details"
+              >
+                <div
+                  class="v-messages theme--light"
+                >
+                  <div
+                    class="v-messages__wrapper"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+       
+      <div
+        class="layout row"
+      >
+        <button
+          class="v-btn theme--light"
+          type="button"
+        >
+          <div
+            class="v-btn__content"
+          >
+            Cancel
+          </div>
+        </button>
+         
+        <button
+          class="v-btn theme--light primary"
+          type="button"
+        >
+          <div
+            class="v-btn__content"
+          >
+            
+          Save Changes
+        
+          </div>
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+`;

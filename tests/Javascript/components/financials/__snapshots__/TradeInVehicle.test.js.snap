@@ -1,0 +1,413 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TradeInVehicle Snapshot default 1`] = `
+<div
+  class="v-card v-sheet theme--light"
+>
+  <div
+    class="v-card__text"
+  >
+    <div
+      class="container grid-list-md"
+    >
+      <div
+        class="layout column"
+      >
+        <div
+          class="flex"
+        >
+          <h3
+            class="primary--text"
+          >
+            
+            USED   
+          
+          </h3>
+        </div>
+         
+        <div
+          class="flex"
+        >
+          <div
+            class="v-input f-tradeInVehicle_allowance v-text-field v-input--is-readonly theme--light"
+          >
+            <div
+              class="v-input__control"
+            >
+              <div
+                class="v-input__slot"
+              >
+                <div
+                  class="v-text-field__slot"
+                >
+                  <label
+                    aria-hidden="true"
+                    class="v-label theme--light"
+                    style="left: 0px; position: absolute;"
+                  >
+                    Trade Allowance
+                  </label>
+                  <input
+                    aria-label="Trade Allowance"
+                    readonly="readonly"
+                    type="text"
+                  />
+                </div>
+              </div>
+              <div
+                class="v-text-field__details"
+              >
+                <div
+                  class="v-messages theme--light"
+                >
+                  <div
+                    class="v-messages__wrapper"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+         
+        <div
+          class="flex"
+        >
+          <div
+            class="v-input f-tradeInVehicle_ACV v-text-field v-input--is-readonly theme--light"
+          >
+            <div
+              class="v-input__control"
+            >
+              <div
+                class="v-input__slot"
+              >
+                <div
+                  class="v-text-field__slot"
+                >
+                  <label
+                    aria-hidden="true"
+                    class="v-label theme--light"
+                    style="left: 0px; position: absolute;"
+                  >
+                    Trade ACV
+                  </label>
+                  <input
+                    aria-label="Trade ACV"
+                    readonly="readonly"
+                    type="text"
+                  />
+                </div>
+              </div>
+              <div
+                class="v-text-field__details"
+              >
+                <div
+                  class="v-messages theme--light"
+                >
+                  <div
+                    class="v-messages__wrapper"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+         
+        <div
+          class="flex"
+        >
+          <div
+            class="v-input f-tradeInVehicle_difference v-text-field v-input--is-readonly theme--light"
+          >
+            <div
+              class="v-input__control"
+            >
+              <div
+                class="v-input__slot"
+              >
+                <div
+                  class="v-text-field__slot"
+                >
+                  <label
+                    aria-hidden="true"
+                    class="v-label theme--light"
+                    style="left: 0px; position: absolute;"
+                  >
+                    Trade Difference
+                  </label>
+                  <input
+                    aria-label="Trade Difference"
+                    readonly="readonly"
+                    type="text"
+                  />
+                </div>
+              </div>
+              <div
+                class="v-text-field__details"
+              >
+                <div
+                  class="v-messages theme--light"
+                >
+                  <div
+                    class="v-messages__wrapper"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+         
+        <div
+          class="flex"
+        >
+          <div
+            class="v-input f-tradeInVehicle_mileage v-text-field v-input--is-readonly theme--light"
+          >
+            <div
+              class="v-input__control"
+            >
+              <div
+                class="v-input__slot"
+              >
+                <div
+                  class="v-text-field__slot"
+                >
+                  <label
+                    aria-hidden="true"
+                    class="v-label theme--light"
+                    style="left: 0px; position: absolute;"
+                  >
+                    Mileage
+                  </label>
+                  <input
+                    aria-label="Mileage"
+                    readonly="readonly"
+                    type="text"
+                  />
+                </div>
+              </div>
+              <div
+                class="v-text-field__details"
+              >
+                <div
+                  class="v-messages theme--light"
+                >
+                  <div
+                    class="v-messages__wrapper"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`TradeInVehicle Snapshot with mocked data 1`] = `
+<div
+  class="v-card v-sheet theme--light"
+>
+  <div
+    class="v-card__text"
+  >
+    <div
+      class="container grid-list-md"
+    >
+      <div
+        class="layout column"
+      >
+        <div
+          class="flex"
+        >
+          <h3
+            class="primary--text"
+          >
+            
+            USED TOYOTA RAV4 2017
+          
+          </h3>
+        </div>
+         
+        <div
+          class="flex"
+        >
+          <div
+            class="v-input f-tradeInVehicle_allowance v-text-field v-input--is-label-active v-input--is-dirty v-input--is-readonly theme--light"
+          >
+            <div
+              class="v-input__control"
+            >
+              <div
+                class="v-input__slot"
+              >
+                <div
+                  class="v-text-field__slot"
+                >
+                  <label
+                    aria-hidden="true"
+                    class="v-label v-label--active theme--light"
+                    style="left: 0px; position: absolute;"
+                  >
+                    Trade Allowance
+                  </label>
+                  <input
+                    aria-label="Trade Allowance"
+                    readonly="readonly"
+                    type="text"
+                  />
+                </div>
+              </div>
+              <div
+                class="v-text-field__details"
+              >
+                <div
+                  class="v-messages theme--light"
+                >
+                  <div
+                    class="v-messages__wrapper"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+         
+        <div
+          class="flex"
+        >
+          <div
+            class="v-input f-tradeInVehicle_ACV v-text-field v-input--is-label-active v-input--is-dirty v-input--is-readonly theme--light"
+          >
+            <div
+              class="v-input__control"
+            >
+              <div
+                class="v-input__slot"
+              >
+                <div
+                  class="v-text-field__slot"
+                >
+                  <label
+                    aria-hidden="true"
+                    class="v-label v-label--active theme--light"
+                    style="left: 0px; position: absolute;"
+                  >
+                    Trade ACV
+                  </label>
+                  <input
+                    aria-label="Trade ACV"
+                    readonly="readonly"
+                    type="text"
+                  />
+                </div>
+              </div>
+              <div
+                class="v-text-field__details"
+              >
+                <div
+                  class="v-messages theme--light"
+                >
+                  <div
+                    class="v-messages__wrapper"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+         
+        <div
+          class="flex"
+        >
+          <div
+            class="v-input f-tradeInVehicle_difference v-text-field v-input--is-readonly theme--light"
+          >
+            <div
+              class="v-input__control"
+            >
+              <div
+                class="v-input__slot"
+              >
+                <div
+                  class="v-text-field__slot"
+                >
+                  <label
+                    aria-hidden="true"
+                    class="v-label theme--light"
+                    style="left: 0px; position: absolute;"
+                  >
+                    Trade Difference
+                  </label>
+                  <input
+                    aria-label="Trade Difference"
+                    readonly="readonly"
+                    type="text"
+                  />
+                </div>
+              </div>
+              <div
+                class="v-text-field__details"
+              >
+                <div
+                  class="v-messages theme--light"
+                >
+                  <div
+                    class="v-messages__wrapper"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+         
+        <div
+          class="flex"
+        >
+          <div
+            class="v-input f-tradeInVehicle_mileage v-text-field v-input--is-label-active v-input--is-dirty v-input--is-readonly theme--light"
+          >
+            <div
+              class="v-input__control"
+            >
+              <div
+                class="v-input__slot"
+              >
+                <div
+                  class="v-text-field__slot"
+                >
+                  <label
+                    aria-hidden="true"
+                    class="v-label v-label--active theme--light"
+                    style="left: 0px; position: absolute;"
+                  >
+                    Mileage
+                  </label>
+                  <input
+                    aria-label="Mileage"
+                    readonly="readonly"
+                    type="text"
+                  />
+                </div>
+              </div>
+              <div
+                class="v-text-field__details"
+              >
+                <div
+                  class="v-messages theme--light"
+                >
+                  <div
+                    class="v-messages__wrapper"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

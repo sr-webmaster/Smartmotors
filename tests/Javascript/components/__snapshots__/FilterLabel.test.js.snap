@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FilterLabel Snapshots color is black 1`] = `
+<div
+  class="black--text"
+>
+  <strong
+    class="no-wrap"
+  />
+</div>
+`;
+
+exports[`FilterLabel Snapshots defaults 1`] = `
+<div
+  class="white--text"
+>
+  <strong
+    class="no-wrap"
+  />
+</div>
+`;

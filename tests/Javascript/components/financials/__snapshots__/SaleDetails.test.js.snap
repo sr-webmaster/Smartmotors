@@ -1,0 +1,77 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SaleDetails Snapshot default 1`] = `
+<div
+  class="v-card v-sheet theme--light"
+>
+  <div
+    class="v-card__text"
+  >
+    <h5>
+      Final Sale Price:
+    </h5>
+     
+    <div
+      class="v-alert text-xs-center headline font-weight-bold f-saleDetails_salePrice info"
+    >
+      <div>
+        
+      
+    
+      </div>
+    </div>
+     
+    <h5>
+      List Sale Price:
+    </h5>
+     
+    <div
+      class="v-alert text-xs-center headline font-weight-bold f-saleDetails_listPrice secondary"
+    >
+      <div>
+        
+      
+    
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`SaleDetails with mocked data 1`] = `
+<div
+  class="v-card v-sheet theme--light"
+>
+  <div
+    class="v-card__text"
+  >
+    <h5>
+      Final Sale Price:
+    </h5>
+     
+    <div
+      class="v-alert text-xs-center headline font-weight-bold f-saleDetails_salePrice info"
+    >
+      <div>
+        
+      $33,145.00
+    
+      </div>
+    </div>
+     
+    <h5>
+      List Sale Price:
+    </h5>
+     
+    <div
+      class="v-alert text-xs-center headline font-weight-bold f-saleDetails_listPrice secondary"
+    >
+      <div>
+        
+      $31,490.00
+    
+      </div>
+    </div>
+  </div>
+</div>
+`;

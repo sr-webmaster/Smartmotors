@@ -1,0 +1,58 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Edit User Page Snapshots mocking data 1`] = `
+<div>
+  <!---->
+   
+  <div
+    class="container fluid fill-height justify-space-between"
+  >
+    <div
+      class="flex d-flex"
+    >
+      <div
+        class="v-card v-sheet theme--light"
+      >
+        <div
+          class="v-card__title v-card__title--primary"
+        >
+          <div
+            class="layout justify-space-between"
+          >
+            <h3>
+              Related Opportunities
+            </h3>
+             
+            <button
+              class="v-btn theme--light primary"
+              type="button"
+            >
+              <div
+                class="v-btn__content"
+              >
+                
+              Add New Opportunity
+            
+              </div>
+            </button>
+          </div>
+        </div>
+         
+        <div
+          class="v-card__text"
+        >
+          <div
+            class="layout row wrap"
+          >
+            <div
+              class="flex md3 p-2"
+            >
+              <!---->
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

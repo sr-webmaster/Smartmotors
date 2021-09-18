@@ -1,0 +1,536 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SalesChart Snapshot default 1`] = `
+<div
+  ringgraphdata="[object Object]"
+>
+  <v-layout-stub
+    row=""
+    tag="div"
+    wrap=""
+  >
+    <v-flex-stub
+      class="[object Object]"
+      sm3=""
+      tag="div"
+    >
+      <v-card-stub
+        class="px-1 py-3 text-xs-center"
+        tag="div"
+      >
+        <div
+          class="card-title ellipsis-text"
+        >
+          
+          Total Deals Written This period
+        
+        </div>
+         
+        <div
+          class="headline pt-1"
+        >
+          
+          0
+        
+        </div>
+      </v-card-stub>
+    </v-flex-stub>
+    <v-flex-stub
+      class="[object Object]"
+      sm3=""
+      tag="div"
+    >
+      <v-card-stub
+        class="px-1 py-3 text-xs-center"
+        tag="div"
+      >
+        <div
+          class="card-title ellipsis-text"
+        >
+          
+          Total Deals Sold This period
+        
+        </div>
+         
+        <div
+          class="headline pt-1"
+        >
+          
+          0
+        
+        </div>
+      </v-card-stub>
+    </v-flex-stub>
+    <v-flex-stub
+      class="[object Object]"
+      sm3=""
+      tag="div"
+    >
+      <v-card-stub
+        class="px-1 py-3 text-xs-center"
+        tag="div"
+      >
+        <div
+          class="card-title ellipsis-text"
+        >
+          
+          Total Deals Delivered This period
+        
+        </div>
+         
+        <div
+          class="headline pt-1"
+        >
+          
+          0
+        
+        </div>
+      </v-card-stub>
+    </v-flex-stub>
+    <v-flex-stub
+      class="[object Object]"
+      sm3=""
+      tag="div"
+    >
+      <v-card-stub
+        class="px-1 py-3 text-xs-center"
+        tag="div"
+      >
+        <div
+          class="card-title ellipsis-text"
+        >
+          
+          Total Deals Quote This period
+        
+        </div>
+         
+        <div
+          class="headline pt-1"
+        >
+          
+          0
+        
+        </div>
+      </v-card-stub>
+    </v-flex-stub>
+    <v-flex-stub
+      class="[object Object]"
+      sm3=""
+      tag="div"
+    >
+      <v-card-stub
+        class="px-1 py-3 text-xs-center"
+        tag="div"
+      >
+        <div
+          class="card-title ellipsis-text"
+        >
+          
+          Accessory Sales This period
+        
+        </div>
+         
+        <div
+          class="headline pt-1"
+        >
+          
+          $0.00
+        
+        </div>
+      </v-card-stub>
+    </v-flex-stub>
+    <v-flex-stub
+      class="[object Object]"
+      sm3=""
+      tag="div"
+    >
+      <v-card-stub
+        class="px-1 py-3 text-xs-center"
+        tag="div"
+      >
+        <div
+          class="card-title ellipsis-text"
+        >
+          
+          Finance Charges This period
+        
+        </div>
+         
+        <div
+          class="headline pt-1"
+        >
+          
+          $0.00
+        
+        </div>
+      </v-card-stub>
+    </v-flex-stub>
+    <v-flex-stub
+      class="[object Object]"
+      sm3=""
+      tag="div"
+    >
+      <v-card-stub
+        class="px-1 py-3 text-xs-center"
+        tag="div"
+      >
+        <div
+          class="card-title ellipsis-text"
+        >
+          
+          Finance Gross This period
+        
+        </div>
+         
+        <div
+          class="headline pt-1"
+        >
+          
+          $0.00
+        
+        </div>
+      </v-card-stub>
+    </v-flex-stub>
+    <v-flex-stub
+      class="[object Object]"
+      sm3=""
+      tag="div"
+    >
+      <v-card-stub
+        class="px-1 py-3 text-xs-center"
+        tag="div"
+      >
+        <div
+          class="card-title ellipsis-text"
+        >
+          
+          Gross Sales This period
+        
+        </div>
+         
+        <div
+          class="headline pt-1"
+        >
+          
+          $0.00
+        
+        </div>
+      </v-card-stub>
+    </v-flex-stub>
+  </v-layout-stub>
+   
+  <v-layout-stub
+    row=""
+    tag="div"
+    wrap=""
+  >
+    <v-flex-stub
+      class="[object Object]"
+      sm7=""
+      tag="div"
+    >
+      <div
+        class="card-title"
+      >
+        
+        Total Sales By Status / Location
+      
+      </div>
+       
+      <columns-stub
+        chartdata="[object Object]"
+      />
+    </v-flex-stub>
+     
+    <v-flex-stub
+      class="[object Object]"
+      tag="div"
+    >
+      <div
+        class="card-title"
+      >
+        
+        Total Sales by Status
+      
+      </div>
+       
+      <ring-graph-stub
+        chartdata="[object Object]"
+      />
+    </v-flex-stub>
+  </v-layout-stub>
+</div>
+`;
+
+exports[`SalesChart Snapshot loading 1`] = `
+<v-progress-linear-stub
+  active="true"
+  buffervalue="100"
+  color="primary"
+  height="7"
+  indeterminate="true"
+  value="0"
+/>
+`;
+
+exports[`SalesChart Snapshot with sales data 1`] = `
+<div
+  ringgraphdata="[object Object]"
+>
+  <v-layout-stub
+    row=""
+    tag="div"
+    wrap=""
+  >
+    <v-flex-stub
+      class="[object Object]"
+      sm3=""
+      tag="div"
+    >
+      <v-card-stub
+        class="px-1 py-3 text-xs-center"
+        tag="div"
+      >
+        <div
+          class="card-title ellipsis-text"
+        >
+          
+          Total Deals Written This period
+        
+        </div>
+         
+        <div
+          class="headline pt-1"
+        >
+          
+          210
+        
+        </div>
+      </v-card-stub>
+    </v-flex-stub>
+    <v-flex-stub
+      class="[object Object]"
+      sm3=""
+      tag="div"
+    >
+      <v-card-stub
+        class="px-1 py-3 text-xs-center"
+        tag="div"
+      >
+        <div
+          class="card-title ellipsis-text"
+        >
+          
+          Total Deals Sold This period
+        
+        </div>
+         
+        <div
+          class="headline pt-1"
+        >
+          
+          50
+        
+        </div>
+      </v-card-stub>
+    </v-flex-stub>
+    <v-flex-stub
+      class="[object Object]"
+      sm3=""
+      tag="div"
+    >
+      <v-card-stub
+        class="px-1 py-3 text-xs-center"
+        tag="div"
+      >
+        <div
+          class="card-title ellipsis-text"
+        >
+          
+          Total Deals Delivered This period
+        
+        </div>
+         
+        <div
+          class="headline pt-1"
+        >
+          
+          30
+        
+        </div>
+      </v-card-stub>
+    </v-flex-stub>
+    <v-flex-stub
+      class="[object Object]"
+      sm3=""
+      tag="div"
+    >
+      <v-card-stub
+        class="px-1 py-3 text-xs-center"
+        tag="div"
+      >
+        <div
+          class="card-title ellipsis-text"
+        >
+          
+          Total Deals Quote This period
+        
+        </div>
+         
+        <div
+          class="headline pt-1"
+        >
+          
+          60
+        
+        </div>
+      </v-card-stub>
+    </v-flex-stub>
+    <v-flex-stub
+      class="[object Object]"
+      sm3=""
+      tag="div"
+    >
+      <v-card-stub
+        class="px-1 py-3 text-xs-center"
+        tag="div"
+      >
+        <div
+          class="card-title ellipsis-text"
+        >
+          
+          Accessory Sales This period
+        
+        </div>
+         
+        <div
+          class="headline pt-1"
+        >
+          
+          $100,000.00
+        
+        </div>
+      </v-card-stub>
+    </v-flex-stub>
+    <v-flex-stub
+      class="[object Object]"
+      sm3=""
+      tag="div"
+    >
+      <v-card-stub
+        class="px-1 py-3 text-xs-center"
+        tag="div"
+      >
+        <div
+          class="card-title ellipsis-text"
+        >
+          
+          Finance Charges This period
+        
+        </div>
+         
+        <div
+          class="headline pt-1"
+        >
+          
+          $110,000.00
+        
+        </div>
+      </v-card-stub>
+    </v-flex-stub>
+    <v-flex-stub
+      class="[object Object]"
+      sm3=""
+      tag="div"
+    >
+      <v-card-stub
+        class="px-1 py-3 text-xs-center"
+        tag="div"
+      >
+        <div
+          class="card-title ellipsis-text"
+        >
+          
+          Finance Gross This period
+        
+        </div>
+         
+        <div
+          class="headline pt-1"
+        >
+          
+          $120,000.00
+        
+        </div>
+      </v-card-stub>
+    </v-flex-stub>
+    <v-flex-stub
+      class="[object Object]"
+      sm3=""
+      tag="div"
+    >
+      <v-card-stub
+        class="px-1 py-3 text-xs-center"
+        tag="div"
+      >
+        <div
+          class="card-title ellipsis-text"
+        >
+          
+          Gross Sales This period
+        
+        </div>
+         
+        <div
+          class="headline pt-1"
+        >
+          
+          $130,000.00
+        
+        </div>
+      </v-card-stub>
+    </v-flex-stub>
+  </v-layout-stub>
+   
+  <v-layout-stub
+    row=""
+    tag="div"
+    wrap=""
+  >
+    <v-flex-stub
+      class="[object Object]"
+      sm7=""
+      tag="div"
+    >
+      <div
+        class="card-title"
+      >
+        
+        Total Sales By Status / Location
+      
+      </div>
+       
+      <columns-stub
+        chartdata="[object Object]"
+      />
+    </v-flex-stub>
+     
+    <v-flex-stub
+      class="[object Object]"
+      tag="div"
+    >
+      <div
+        class="card-title"
+      >
+        
+        Total Sales by Status
+      
+      </div>
+       
+      <ring-graph-stub
+        chartdata="[object Object]"
+      />
+    </v-flex-stub>
+  </v-layout-stub>
+</div>
+`;

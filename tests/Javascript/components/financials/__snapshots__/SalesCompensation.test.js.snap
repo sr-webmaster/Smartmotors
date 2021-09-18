@@ -1,0 +1,706 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SalesCompensation Snapshot default 1`] = `
+<div
+  class="v-card v-sheet theme--light"
+>
+  <div
+    class="v-card__text"
+  >
+    <div
+      class="container grid-list-md"
+    >
+      <div
+        class="layout row wrap"
+      >
+        <div
+          class="flex md3"
+        >
+          <div
+            class="v-input v-text-field v-input--is-readonly theme--light"
+          >
+            <div
+              class="v-input__control"
+            >
+              <div
+                class="v-input__slot"
+              >
+                <div
+                  class="v-text-field__slot"
+                >
+                  <label
+                    aria-hidden="true"
+                    class="v-label theme--light"
+                    style="left: 0px; position: absolute;"
+                  >
+                    Scion
+                  </label>
+                  <input
+                    aria-label="Scion"
+                    readonly="readonly"
+                    type="text"
+                  />
+                </div>
+              </div>
+              <div
+                class="v-text-field__details"
+              >
+                <div
+                  class="v-messages theme--light"
+                >
+                  <div
+                    class="v-messages__wrapper"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+         
+        <div
+          class="flex md3"
+        >
+          <div
+            class="v-input v-text-field v-input--is-readonly theme--light"
+          >
+            <div
+              class="v-input__control"
+            >
+              <div
+                class="v-input__slot"
+              >
+                <div
+                  class="v-text-field__slot"
+                >
+                  <label
+                    aria-hidden="true"
+                    class="v-label theme--light"
+                    style="left: 0px; position: absolute;"
+                  >
+                    Commission
+                  </label>
+                  <input
+                    aria-label="Commission"
+                    readonly="readonly"
+                    type="text"
+                  />
+                </div>
+              </div>
+              <div
+                class="v-text-field__details"
+              >
+                <div
+                  class="v-messages theme--light"
+                >
+                  <div
+                    class="v-messages__wrapper"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+         
+        <div
+          class="flex md3"
+        >
+          <div
+            class="v-input v-text-field v-input--is-readonly theme--light"
+          >
+            <div
+              class="v-input__control"
+            >
+              <div
+                class="v-input__slot"
+              >
+                <div
+                  class="v-text-field__slot"
+                >
+                  <label
+                    aria-hidden="true"
+                    class="v-label theme--light"
+                    style="left: 0px; position: absolute;"
+                  >
+                    Accessory
+                  </label>
+                  <input
+                    aria-label="Accessory"
+                    readonly="readonly"
+                    type="text"
+                  />
+                </div>
+              </div>
+              <div
+                class="v-text-field__details"
+              >
+                <div
+                  class="v-messages theme--light"
+                >
+                  <div
+                    class="v-messages__wrapper"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+       
+      <div
+        class="layout row wrap"
+      >
+        <div
+          class="flex md3"
+        >
+          <div
+            class="v-input v-text-field v-input--is-readonly theme--light"
+          >
+            <div
+              class="v-input__control"
+            >
+              <div
+                class="v-input__slot"
+              >
+                <div
+                  class="v-text-field__slot"
+                >
+                  <label
+                    aria-hidden="true"
+                    class="v-label theme--light"
+                    style="left: 0px; position: absolute;"
+                  >
+                    Comp Gross
+                  </label>
+                  <input
+                    aria-label="Comp Gross"
+                    readonly="readonly"
+                    type="text"
+                  />
+                </div>
+              </div>
+              <div
+                class="v-text-field__details"
+              >
+                <div
+                  class="v-messages theme--light"
+                >
+                  <div
+                    class="v-messages__wrapper"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+         
+        <div
+          class="flex md3"
+        >
+          <div
+            class="v-input v-text-field v-select theme--light"
+            role="combobox"
+          >
+            <div
+              class="v-input__control"
+            >
+              <div
+                class="v-input__slot"
+              >
+                <div
+                  class="v-select__slot"
+                >
+                  <label
+                    aria-hidden="true"
+                    class="v-label theme--light"
+                    style="left: 0px; position: absolute;"
+                  >
+                    Gross Spiff
+                  </label>
+                  <div
+                    class="v-select__selections"
+                  >
+                    <input
+                      aria-label="Gross Spiff"
+                      aria-readonly="false"
+                      autocomplete="on"
+                      readonly="readonly"
+                      type="text"
+                    />
+                  </div>
+                  <div
+                    class="v-input__append-inner"
+                  >
+                    <div
+                      class="v-input__icon v-input__icon--append"
+                    >
+                      <i
+                        aria-hidden="true"
+                        class="v-icon material-icons theme--light"
+                      >
+                        arrow_drop_down
+                      </i>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="v-menu"
+                >
+                  <div
+                    class="v-menu__content theme--light "
+                    style="max-height: 300px; min-width: 0px; max-width: auto; top: 12px; left: 0px; transform-origin: top left; z-index: 0; display: none;"
+                  >
+                    <div
+                      class="v-select-list v-card theme--light"
+                    >
+                      <div
+                        class="v-list theme--light"
+                        role="list"
+                      >
+                        <div
+                          role="listitem"
+                        >
+                          <div
+                            class="v-list__tile theme--light"
+                          >
+                            <div
+                              class="v-list__tile__content"
+                            >
+                              <div
+                                class="v-list__tile__title"
+                              >
+                                No data available
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                class="v-text-field__details"
+              >
+                <div
+                  class="v-messages theme--light"
+                >
+                  <div
+                    class="v-messages__wrapper"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+         
+        <div
+          class="flex md3"
+        >
+          <div
+            class="v-input v-input--selection-controls v-input--switch theme--light"
+          >
+            <div
+              class="v-input__control"
+            >
+              <div
+                class="v-input__slot"
+              >
+                <div
+                  class="v-input--selection-controls__input"
+                >
+                  <input
+                    aria-checked="false"
+                    aria-label="Spin"
+                    role="checkbox"
+                    type="checkbox"
+                    value=""
+                  />
+                  <div
+                    class="v-input--selection-controls__ripple"
+                  />
+                  <div
+                    class="v-input--switch__track theme--light"
+                  />
+                  <div
+                    class="v-input--switch__thumb theme--light"
+                  >
+                    <!---->
+                  </div>
+                </div>
+                <label
+                  aria-hidden="true"
+                  class="v-label theme--light"
+                  style="left: 0px; position: relative;"
+                >
+                  Spin
+                </label>
+              </div>
+              <div
+                class="v-messages theme--light"
+              >
+                <div
+                  class="v-messages__wrapper"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+         
+        <div
+          class="flex md3"
+        >
+          <div
+            class="v-input v-text-field v-select theme--light"
+            role="combobox"
+          >
+            <div
+              class="v-input__control"
+            >
+              <div
+                class="v-input__slot"
+              >
+                <div
+                  class="v-select__slot"
+                >
+                  <label
+                    aria-hidden="true"
+                    class="v-label theme--light"
+                    style="left: 0px; position: absolute;"
+                  >
+                    Spin Amt
+                  </label>
+                  <div
+                    class="v-select__selections"
+                  >
+                    <input
+                      aria-label="Spin Amt"
+                      aria-readonly="false"
+                      autocomplete="on"
+                      readonly="readonly"
+                      type="text"
+                    />
+                  </div>
+                  <div
+                    class="v-input__append-inner"
+                  >
+                    <div
+                      class="v-input__icon v-input__icon--append"
+                    >
+                      <i
+                        aria-hidden="true"
+                        class="v-icon material-icons theme--light"
+                      >
+                        arrow_drop_down
+                      </i>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="v-menu"
+                >
+                  <div
+                    class="v-menu__content theme--light "
+                    style="max-height: 300px; min-width: 0px; max-width: auto; top: 12px; left: 0px; transform-origin: top left; z-index: 0; display: none;"
+                  >
+                    <div
+                      class="v-select-list v-card theme--light"
+                    >
+                      <div
+                        class="v-list theme--light"
+                        role="list"
+                      >
+                        <div
+                          role="listitem"
+                        >
+                          <div
+                            class="v-list__tile theme--light"
+                          >
+                            <div
+                              class="v-list__tile__content"
+                            >
+                              <div
+                                class="v-list__tile__title"
+                              >
+                                No data available
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                class="v-text-field__details"
+              >
+                <div
+                  class="v-messages theme--light"
+                >
+                  <div
+                    class="v-messages__wrapper"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+       
+      <div
+        class="layout row wrap"
+      >
+        <div
+          class="flex md3"
+        >
+          <div
+            class="v-input v-input--selection-controls v-input--switch theme--light"
+          >
+            <div
+              class="v-input__control"
+            >
+              <div
+                class="v-input__slot"
+              >
+                <div
+                  class="v-input--selection-controls__input"
+                >
+                  <input
+                    aria-checked="false"
+                    aria-label="Spiff"
+                    role="checkbox"
+                    type="checkbox"
+                    value=""
+                  />
+                  <div
+                    class="v-input--selection-controls__ripple"
+                  />
+                  <div
+                    class="v-input--switch__track theme--light"
+                  />
+                  <div
+                    class="v-input--switch__thumb theme--light"
+                  >
+                    <!---->
+                  </div>
+                </div>
+                <label
+                  aria-hidden="true"
+                  class="v-label theme--light"
+                  style="left: 0px; position: relative;"
+                >
+                  Spiff
+                </label>
+              </div>
+              <div
+                class="v-messages theme--light"
+              >
+                <div
+                  class="v-messages__wrapper"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+         
+        <div
+          class="flex md3"
+        >
+          <div
+            class="v-input v-text-field v-select theme--light"
+            role="combobox"
+          >
+            <div
+              class="v-input__control"
+            >
+              <div
+                class="v-input__slot"
+              >
+                <div
+                  class="v-select__slot"
+                >
+                  <label
+                    aria-hidden="true"
+                    class="v-label theme--light"
+                    style="left: 0px; position: absolute;"
+                  >
+                    Spiff Amt
+                  </label>
+                  <div
+                    class="v-select__selections"
+                  >
+                    <input
+                      aria-label="Spiff Amt"
+                      aria-readonly="false"
+                      autocomplete="on"
+                      readonly="readonly"
+                      type="text"
+                    />
+                  </div>
+                  <div
+                    class="v-input__append-inner"
+                  >
+                    <div
+                      class="v-input__icon v-input__icon--append"
+                    >
+                      <i
+                        aria-hidden="true"
+                        class="v-icon material-icons theme--light"
+                      >
+                        arrow_drop_down
+                      </i>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="v-menu"
+                >
+                  <div
+                    class="v-menu__content theme--light "
+                    style="max-height: 300px; min-width: 0px; max-width: auto; top: 12px; left: 0px; transform-origin: top left; z-index: 0; display: none;"
+                  >
+                    <div
+                      class="v-select-list v-card theme--light"
+                    >
+                      <div
+                        class="v-list theme--light"
+                        role="list"
+                      >
+                        <div
+                          role="listitem"
+                        >
+                          <div
+                            class="v-list__tile theme--light"
+                          >
+                            <div
+                              class="v-list__tile__content"
+                            >
+                              <div
+                                class="v-list__tile__title"
+                              >
+                                No data available
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                class="v-text-field__details"
+              >
+                <div
+                  class="v-messages theme--light"
+                >
+                  <div
+                    class="v-messages__wrapper"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+         
+        <div
+          class="flex md3"
+        >
+          <div
+            class="v-input v-input--selection-controls v-input--switch theme--light"
+          >
+            <div
+              class="v-input__control"
+            >
+              <div
+                class="v-input__slot"
+              >
+                <div
+                  class="v-input--selection-controls__input"
+                >
+                  <input
+                    aria-checked="false"
+                    aria-label="Flat"
+                    role="checkbox"
+                    type="checkbox"
+                    value=""
+                  />
+                  <div
+                    class="v-input--selection-controls__ripple"
+                  />
+                  <div
+                    class="v-input--switch__track theme--light"
+                  />
+                  <div
+                    class="v-input--switch__thumb theme--light"
+                  >
+                    <!---->
+                  </div>
+                </div>
+                <label
+                  aria-hidden="true"
+                  class="v-label theme--light"
+                  style="left: 0px; position: relative;"
+                >
+                  Flat
+                </label>
+              </div>
+              <div
+                class="v-messages theme--light"
+              >
+                <div
+                  class="v-messages__wrapper"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+         
+        <div
+          class="flex md3"
+        >
+          <div
+            class="v-input v-text-field v-input--is-label-active v-input--is-dirty v-input--is-readonly theme--light"
+          >
+            <div
+              class="v-input__control"
+            >
+              <div
+                class="v-input__slot"
+              >
+                <div
+                  class="v-text-field__slot"
+                >
+                  <label
+                    aria-hidden="true"
+                    class="v-label v-label--active theme--light"
+                    style="left: 0px; position: absolute;"
+                  >
+                    Total Compensation
+                  </label>
+                  <input
+                    aria-label="Total Compensation"
+                    readonly="readonly"
+                    type="text"
+                  />
+                </div>
+              </div>
+              <div
+                class="v-text-field__details"
+              >
+                <div
+                  class="v-messages theme--light"
+                >
+                  <div
+                    class="v-messages__wrapper"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

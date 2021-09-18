@@ -1,0 +1,567 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Data Visibility Visuals click on data visibility button 1`] = `
+<div>
+  <div
+    class="v-overlay v-overlay--absolute"
+  />
+  <button
+    class="sm-ReportsDataVisibility__activator v-btn v-btn--round theme--light primary"
+    type="button"
+  >
+    <div
+      class="v-btn__content"
+    >
+      
+    Data Visibility
+  
+    </div>
+  </button>
+   
+  <aside
+    class="v-navigation-drawer v-navigation-drawer--absolute v-navigation-drawer--open v-navigation-drawer--right v-navigation-drawer--temporary theme--light"
+    style="height: 100%; margin-top: 0px; transform: translateX(0px); width: 300px;"
+  >
+    <div
+      class="container sm-ReportsDataVisibility__container"
+    >
+      <h2
+        class="mb-4"
+      >
+        
+        Data Visibility
+      
+      </h2>
+       
+      <h3
+        class="sm-ReportsDataVisibility__sectionTitle"
+      >
+        
+        Active
+      
+      </h3>
+       
+      <span
+        class="list-group"
+      >
+        <div
+          class="layout"
+        >
+          <i
+            aria-hidden="true"
+            class="v-icon handle material-icons theme--light"
+          >
+            drag_indicator
+          </i>
+           
+          <div
+            class="v-input mt-0 v-input--selection-controls v-input--checkbox v-input--is-label-active v-input--is-dirty theme--light"
+          >
+            <div
+              class="v-input__control"
+            >
+              <div
+                class="v-input__slot"
+              >
+                <div
+                  class="v-input--selection-controls__input"
+                >
+                  <input
+                    aria-checked="true"
+                    aria-label="Pensiero"
+                    role="checkbox"
+                    type="checkbox"
+                    value=""
+                  />
+                  <div
+                    class="v-input--selection-controls__ripple accent--text"
+                  />
+                  <i
+                    aria-hidden="true"
+                    class="v-icon material-icons theme--light accent--text"
+                  >
+                    check_box
+                  </i>
+                </div>
+                <label
+                  aria-hidden="true"
+                  class="v-label theme--light"
+                  style="left: 0px; position: relative;"
+                >
+                  Pensiero
+                </label>
+              </div>
+              <div
+                class="v-messages theme--light"
+              >
+                <div
+                  class="v-messages__wrapper"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="layout"
+        >
+          <i
+            aria-hidden="true"
+            class="v-icon handle material-icons theme--light"
+          >
+            drag_indicator
+          </i>
+           
+          <div
+            class="v-input mt-0 v-input--selection-controls v-input--checkbox v-input--is-label-active v-input--is-dirty theme--light"
+          >
+            <div
+              class="v-input__control"
+            >
+              <div
+                class="v-input__slot"
+              >
+                <div
+                  class="v-input--selection-controls__input"
+                >
+                  <input
+                    aria-checked="true"
+                    aria-label="Finitura"
+                    role="checkbox"
+                    type="checkbox"
+                    value=""
+                  />
+                  <div
+                    class="v-input--selection-controls__ripple accent--text"
+                  />
+                  <i
+                    aria-hidden="true"
+                    class="v-icon material-icons theme--light accent--text"
+                  >
+                    check_box
+                  </i>
+                </div>
+                <label
+                  aria-hidden="true"
+                  class="v-label theme--light"
+                  style="left: 0px; position: relative;"
+                >
+                  Finitura
+                </label>
+              </div>
+              <div
+                class="v-messages theme--light"
+              >
+                <div
+                  class="v-messages__wrapper"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="layout"
+        >
+          <i
+            aria-hidden="true"
+            class="v-icon handle material-icons theme--light"
+          >
+            drag_indicator
+          </i>
+           
+          <div
+            class="v-input mt-0 v-input--selection-controls v-input--checkbox v-input--is-label-active v-input--is-dirty theme--light"
+          >
+            <div
+              class="v-input__control"
+            >
+              <div
+                class="v-input__slot"
+              >
+                <div
+                  class="v-input--selection-controls__input"
+                >
+                  <input
+                    aria-checked="true"
+                    aria-label="Sopportare"
+                    role="checkbox"
+                    type="checkbox"
+                    value=""
+                  />
+                  <div
+                    class="v-input--selection-controls__ripple accent--text"
+                  />
+                  <i
+                    aria-hidden="true"
+                    class="v-icon material-icons theme--light accent--text"
+                  >
+                    check_box
+                  </i>
+                </div>
+                <label
+                  aria-hidden="true"
+                  class="v-label theme--light"
+                  style="left: 0px; position: relative;"
+                >
+                  Sopportare
+                </label>
+              </div>
+              <div
+                class="v-messages theme--light"
+              >
+                <div
+                  class="v-messages__wrapper"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </span>
+       
+      <h3
+        class="sm-ReportsDataVisibility__sectionTitle"
+      >
+        
+        Inctive
+      
+      </h3>
+       
+      <div
+        class="v-input v-text-field theme--light"
+      >
+        <div
+          class="v-input__control"
+        >
+          <div
+            class="v-input__slot"
+          >
+            <div
+              class="v-text-field__slot"
+            >
+              <label
+                aria-hidden="true"
+                class="v-label theme--light"
+                style="left: 0px; position: absolute;"
+              >
+                Search Parameters
+              </label>
+              <input
+                aria-label="Search Parameters"
+                type="text"
+              />
+            </div>
+          </div>
+          <div
+            class="v-text-field__details"
+          >
+            <div
+              class="v-messages theme--light"
+            >
+              <div
+                class="v-messages__wrapper"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+       
+      <div
+        class="v-input mt-0 v-input--selection-controls v-input--checkbox theme--light"
+      >
+        <div
+          class="v-input__control"
+        >
+          <div
+            class="v-input__slot"
+          >
+            <div
+              class="v-input--selection-controls__input"
+            >
+              <input
+                aria-checked="false"
+                aria-label="Insegnare"
+                role="checkbox"
+                type="checkbox"
+                value=""
+              />
+              <div
+                class="v-input--selection-controls__ripple"
+              />
+              <i
+                aria-hidden="true"
+                class="v-icon material-icons theme--light"
+              >
+                check_box_outline_blank
+              </i>
+            </div>
+            <label
+              aria-hidden="true"
+              class="v-label theme--light"
+              style="left: 0px; position: relative;"
+            >
+              Insegnare
+            </label>
+          </div>
+          <div
+            class="v-messages theme--light"
+          >
+            <div
+              class="v-messages__wrapper"
+            />
+          </div>
+        </div>
+      </div>
+      <div
+        class="v-input mt-0 v-input--selection-controls v-input--checkbox theme--light"
+      >
+        <div
+          class="v-input__control"
+        >
+          <div
+            class="v-input__slot"
+          >
+            <div
+              class="v-input--selection-controls__input"
+            >
+              <input
+                aria-checked="false"
+                aria-label="Industria"
+                role="checkbox"
+                type="checkbox"
+                value=""
+              />
+              <div
+                class="v-input--selection-controls__ripple"
+              />
+              <i
+                aria-hidden="true"
+                class="v-icon material-icons theme--light"
+              >
+                check_box_outline_blank
+              </i>
+            </div>
+            <label
+              aria-hidden="true"
+              class="v-label theme--light"
+              style="left: 0px; position: relative;"
+            >
+              Industria
+            </label>
+          </div>
+          <div
+            class="v-messages theme--light"
+          >
+            <div
+              class="v-messages__wrapper"
+            />
+          </div>
+        </div>
+      </div>
+      <div
+        class="v-input mt-0 v-input--selection-controls v-input--checkbox theme--light"
+      >
+        <div
+          class="v-input__control"
+        >
+          <div
+            class="v-input__slot"
+          >
+            <div
+              class="v-input--selection-controls__input"
+            >
+              <input
+                aria-checked="false"
+                aria-label="Tenere"
+                role="checkbox"
+                type="checkbox"
+                value=""
+              />
+              <div
+                class="v-input--selection-controls__ripple"
+              />
+              <i
+                aria-hidden="true"
+                class="v-icon material-icons theme--light"
+              >
+                check_box_outline_blank
+              </i>
+            </div>
+            <label
+              aria-hidden="true"
+              class="v-label theme--light"
+              style="left: 0px; position: relative;"
+            >
+              Tenere
+            </label>
+          </div>
+          <div
+            class="v-messages theme--light"
+          >
+            <div
+              class="v-messages__wrapper"
+            />
+          </div>
+        </div>
+      </div>
+       
+      <div
+        class="layout"
+      >
+        <button
+          class="v-btn v-btn--block v-btn--flat theme--light secondary--text"
+          type="button"
+        >
+          <div
+            class="v-btn__content"
+          >
+            
+          Cancel
+        
+          </div>
+        </button>
+         
+        <button
+          class="v-btn v-btn--block theme--light primary"
+          type="button"
+        >
+          <div
+            class="v-btn__content"
+          >
+            
+          Apply
+        
+          </div>
+        </button>
+      </div>
+    </div>
+    <div
+      class="v-navigation-drawer__border"
+    />
+  </aside>
+</div>
+`;
+
+exports[`Data Visibility Visuals default with mocked items 1`] = `
+<div>
+  <button
+    class="sm-ReportsDataVisibility__activator v-btn v-btn--round theme--light primary"
+    type="button"
+  >
+    <div
+      class="v-btn__content"
+    >
+      
+    Data Visibility
+  
+    </div>
+  </button>
+   
+  <aside
+    class="v-navigation-drawer v-navigation-drawer--absolute v-navigation-drawer--close v-navigation-drawer--right v-navigation-drawer--temporary theme--light"
+    style="height: 100%; margin-top: 0px; transform: translateX(300px); width: 300px;"
+  >
+    <div
+      class="container sm-ReportsDataVisibility__container"
+    >
+      <h2
+        class="mb-4"
+      >
+        
+        Data Visibility
+      
+      </h2>
+       
+      <h3
+        class="sm-ReportsDataVisibility__sectionTitle"
+      >
+        
+        Active
+      
+      </h3>
+       
+      <span
+        class="list-group"
+      />
+       
+      <h3
+        class="sm-ReportsDataVisibility__sectionTitle"
+      >
+        
+        Inctive
+      
+      </h3>
+       
+      <div
+        class="v-input v-text-field theme--light"
+      >
+        <div
+          class="v-input__control"
+        >
+          <div
+            class="v-input__slot"
+          >
+            <div
+              class="v-text-field__slot"
+            >
+              <label
+                aria-hidden="true"
+                class="v-label theme--light"
+                style="left: 0px; position: absolute;"
+              >
+                Search Parameters
+              </label>
+              <input
+                aria-label="Search Parameters"
+                type="text"
+              />
+            </div>
+          </div>
+          <div
+            class="v-text-field__details"
+          >
+            <div
+              class="v-messages theme--light"
+            >
+              <div
+                class="v-messages__wrapper"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+        
+      <div
+        class="layout"
+      >
+        <button
+          class="v-btn v-btn--block v-btn--flat theme--light secondary--text"
+          type="button"
+        >
+          <div
+            class="v-btn__content"
+          >
+            
+          Cancel
+        
+          </div>
+        </button>
+         
+        <button
+          class="v-btn v-btn--block theme--light primary"
+          type="button"
+        >
+          <div
+            class="v-btn__content"
+          >
+            
+          Apply
+        
+          </div>
+        </button>
+      </div>
+    </div>
+    <div
+      class="v-navigation-drawer__border"
+    />
+  </aside>
+</div>
+`;

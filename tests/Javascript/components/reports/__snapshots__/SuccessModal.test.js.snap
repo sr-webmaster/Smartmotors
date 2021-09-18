@@ -1,0 +1,229 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Export Modal Visuals default 1`] = `
+<div
+  class="v-dialog__container"
+  style="display: block;"
+>
+  <div
+    class="v-dialog__content"
+    style="z-index: 0;"
+    tabindex="-1"
+  >
+    <div
+      class="v-dialog"
+      style="max-width: 400px; display: none;"
+    >
+      <div
+        class="v-card v-sheet theme--light"
+      >
+        <nav
+          class="v-toolbar theme--light"
+          style="margin-top: 0px; padding-right: 0px; padding-left: 0px; transform: translateY(0px);"
+        >
+          <div
+            class="v-toolbar__content"
+            style="height: 64px;"
+          >
+            <div
+              class="v-toolbar__title"
+            >
+              Save Report
+            </div>
+             
+            <div
+              class="spacer"
+            />
+             
+            <div
+              class="v-toolbar__items"
+            >
+              <button
+                class="v-btn v-btn--icon theme--light"
+                type="button"
+              >
+                <div
+                  class="v-btn__content"
+                >
+                  <i
+                    aria-hidden="true"
+                    class="v-icon material-icons theme--light"
+                  >
+                    close
+                  </i>
+                </div>
+              </button>
+            </div>
+          </div>
+        </nav>
+         
+        <div
+          class="v-card__text"
+        >
+          <div
+            class="layout column align-center"
+          >
+            <i
+              aria-hidden="true"
+              class="v-icon material-icons theme--light green--text"
+            >
+              check_circle
+            </i>
+             
+            <h1>
+              SUCCESS!
+            </h1>
+             
+            <h3>
+              Your report was saved
+            </h3>
+          </div>
+        </div>
+         
+        <div
+          class="v-card__actions"
+        >
+          <button
+            class="v-btn v-btn--block v-btn--flat theme--light secondary--text"
+            type="button"
+          >
+            <div
+              class="v-btn__content"
+            >
+              
+        Back to report
+      
+            </div>
+          </button>
+           
+          <router-link
+            class="v-btn v-btn--block v-btn--router theme--light primary"
+          >
+            <div
+              class="v-btn__content"
+            >
+              
+        View saved reports
+      
+            </div>
+          </router-link>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Export Modal Visuals visible 1`] = `
+<div
+  class="v-dialog__container"
+  style="display: block;"
+>
+  <div
+    class="v-dialog__content v-dialog__content--active"
+    style="z-index: 202;"
+    tabindex="-1"
+  >
+    <div
+      class="v-dialog v-dialog--active"
+      style="max-width: 400px;"
+    >
+      <div
+        class="v-card v-sheet theme--light"
+      >
+        <nav
+          class="v-toolbar theme--light"
+          style="margin-top: 0px; padding-right: 0px; padding-left: 0px; transform: translateY(0px);"
+        >
+          <div
+            class="v-toolbar__content"
+            style="height: 64px;"
+          >
+            <div
+              class="v-toolbar__title"
+            >
+              Save Report
+            </div>
+             
+            <div
+              class="spacer"
+            />
+             
+            <div
+              class="v-toolbar__items"
+            >
+              <button
+                class="v-btn v-btn--icon theme--light"
+                type="button"
+              >
+                <div
+                  class="v-btn__content"
+                >
+                  <i
+                    aria-hidden="true"
+                    class="v-icon material-icons theme--light"
+                  >
+                    close
+                  </i>
+                </div>
+              </button>
+            </div>
+          </div>
+        </nav>
+         
+        <div
+          class="v-card__text"
+        >
+          <div
+            class="layout column align-center"
+          >
+            <i
+              aria-hidden="true"
+              class="v-icon material-icons theme--light green--text"
+            >
+              check_circle
+            </i>
+             
+            <h1>
+              SUCCESS!
+            </h1>
+             
+            <h3>
+              Your report was saved
+            </h3>
+          </div>
+        </div>
+         
+        <div
+          class="v-card__actions"
+        >
+          <button
+            class="v-btn v-btn--block v-btn--flat theme--light secondary--text"
+            type="button"
+          >
+            <div
+              class="v-btn__content"
+            >
+              
+        Back to report
+      
+            </div>
+          </button>
+           
+          <router-link
+            class="v-btn v-btn--block v-btn--router theme--light primary"
+          >
+            <div
+              class="v-btn__content"
+            >
+              
+        View saved reports
+      
+            </div>
+          </router-link>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

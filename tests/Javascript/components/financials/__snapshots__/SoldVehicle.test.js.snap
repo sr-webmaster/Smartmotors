@@ -1,0 +1,351 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SoldVehicle Snapshot default 1`] = `
+<div
+  class="v-card v-sheet theme--light"
+>
+  <div
+    class="v-card__text"
+  >
+    <div
+      class="container grid-list-md"
+    >
+      <div
+        class="layout column"
+      >
+        <div
+          class="flex"
+        >
+          <h3
+            class="primary--text"
+          >
+            
+               
+          
+          </h3>
+           
+          <span
+            class="v-chip v-chip--small theme--light info white--text"
+            tabindex="0"
+          >
+            <span
+              class="v-chip__content"
+            >
+              
+            Stock #: 
+          
+            </span>
+          </span>
+        </div>
+         
+        <div
+          class="flex"
+        >
+          <div
+            class="v-input f-soldVehicle_VIN v-text-field v-input--is-readonly theme--light"
+          >
+            <div
+              class="v-input__control"
+            >
+              <div
+                class="v-input__slot"
+              >
+                <div
+                  class="v-text-field__slot"
+                >
+                  <label
+                    aria-hidden="true"
+                    class="v-label theme--light"
+                    style="left: 0px; position: absolute;"
+                  >
+                    VIN #
+                  </label>
+                  <input
+                    aria-label="VIN #"
+                    readonly="readonly"
+                    type="text"
+                  />
+                </div>
+              </div>
+              <div
+                class="v-text-field__details"
+              >
+                <div
+                  class="v-messages theme--light"
+                >
+                  <div
+                    class="v-messages__wrapper"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+         
+        <div
+          class="flex"
+        >
+          <div
+            class="v-input f-soldVehicle_daysInStock v-text-field v-input--is-readonly theme--light"
+          >
+            <div
+              class="v-input__control"
+            >
+              <div
+                class="v-input__slot"
+              >
+                <div
+                  class="v-text-field__slot"
+                >
+                  <label
+                    aria-hidden="true"
+                    class="v-label theme--light"
+                    style="left: 0px; position: absolute;"
+                  >
+                    Days in stock
+                  </label>
+                  <input
+                    aria-label="Days in stock"
+                    readonly="readonly"
+                    type="text"
+                  />
+                </div>
+              </div>
+              <div
+                class="v-text-field__details"
+              >
+                <div
+                  class="v-messages theme--light"
+                >
+                  <div
+                    class="v-messages__wrapper"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+         
+        <div
+          class="flex"
+        >
+          <div
+            class="v-input f-soldVehicle_mileage v-text-field v-input--is-readonly theme--light"
+          >
+            <div
+              class="v-input__control"
+            >
+              <div
+                class="v-input__slot"
+              >
+                <div
+                  class="v-text-field__slot"
+                >
+                  <label
+                    aria-hidden="true"
+                    class="v-label theme--light"
+                    style="left: 0px; position: absolute;"
+                  >
+                    Mileage
+                  </label>
+                  <input
+                    aria-label="Mileage"
+                    readonly="readonly"
+                    type="text"
+                  />
+                </div>
+              </div>
+              <div
+                class="v-text-field__details"
+              >
+                <div
+                  class="v-messages theme--light"
+                >
+                  <div
+                    class="v-messages__wrapper"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`SoldVehicle Snapshot with mocked data 1`] = `
+<div
+  class="v-card v-sheet theme--light"
+>
+  <div
+    class="v-card__text"
+  >
+    <div
+      class="container grid-list-md"
+    >
+      <div
+        class="layout column"
+      >
+        <div
+          class="flex"
+        >
+          <h3
+            class="primary--text"
+          >
+            
+            NEW TOYOTA RAV4 2018
+          
+          </h3>
+           
+          <span
+            class="v-chip v-chip--small theme--light info white--text"
+            tabindex="0"
+          >
+            <span
+              class="v-chip__content"
+            >
+              
+            Stock #: M464621
+          
+            </span>
+          </span>
+        </div>
+         
+        <div
+          class="flex"
+        >
+          <div
+            class="v-input f-soldVehicle_VIN v-text-field v-input--is-label-active v-input--is-dirty v-input--is-readonly theme--light"
+          >
+            <div
+              class="v-input__control"
+            >
+              <div
+                class="v-input__slot"
+              >
+                <div
+                  class="v-text-field__slot"
+                >
+                  <label
+                    aria-hidden="true"
+                    class="v-label v-label--active theme--light"
+                    style="left: 0px; position: absolute;"
+                  >
+                    VIN #
+                  </label>
+                  <input
+                    aria-label="VIN #"
+                    readonly="readonly"
+                    type="text"
+                  />
+                </div>
+              </div>
+              <div
+                class="v-text-field__details"
+              >
+                <div
+                  class="v-messages theme--light"
+                >
+                  <div
+                    class="v-messages__wrapper"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+         
+        <div
+          class="flex"
+        >
+          <div
+            class="v-input f-soldVehicle_daysInStock v-text-field v-input--is-readonly theme--light"
+          >
+            <div
+              class="v-input__control"
+            >
+              <div
+                class="v-input__slot"
+              >
+                <div
+                  class="v-text-field__slot"
+                >
+                  <label
+                    aria-hidden="true"
+                    class="v-label theme--light"
+                    style="left: 0px; position: absolute;"
+                  >
+                    Days in stock
+                  </label>
+                  <input
+                    aria-label="Days in stock"
+                    readonly="readonly"
+                    type="text"
+                  />
+                </div>
+              </div>
+              <div
+                class="v-text-field__details"
+              >
+                <div
+                  class="v-messages theme--light"
+                >
+                  <div
+                    class="v-messages__wrapper"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+         
+        <div
+          class="flex"
+        >
+          <div
+            class="v-input f-soldVehicle_mileage v-text-field v-input--is-label-active v-input--is-dirty v-input--is-readonly theme--light"
+          >
+            <div
+              class="v-input__control"
+            >
+              <div
+                class="v-input__slot"
+              >
+                <div
+                  class="v-text-field__slot"
+                >
+                  <label
+                    aria-hidden="true"
+                    class="v-label v-label--active theme--light"
+                    style="left: 0px; position: absolute;"
+                  >
+                    Mileage
+                  </label>
+                  <input
+                    aria-label="Mileage"
+                    readonly="readonly"
+                    type="text"
+                  />
+                </div>
+              </div>
+              <div
+                class="v-text-field__details"
+              >
+                <div
+                  class="v-messages theme--light"
+                >
+                  <div
+                    class="v-messages__wrapper"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
